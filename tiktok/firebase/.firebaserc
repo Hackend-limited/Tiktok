@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "development-69cdc",
+    "production": "production-a9404",
+    "development": "development-69cdc",
+    "instaflutter": "instaflutter-85faa"
+  },
+  "targets": {}
+}
